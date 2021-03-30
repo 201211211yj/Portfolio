@@ -16,7 +16,7 @@
 
 ---
 
-# Skills.
+## Skills.
 
 - 언어 : **Java**, Java Script, C++
 - Framework : **Spring Boot, Spring Framework**, Android, vue.js
@@ -24,7 +24,7 @@
 
 ---
 
-# Careers.
+## Careers.
 
 **2012.03 ~ 2018.02 / OO대학교 컴퓨터과학 심화전공 졸업**
 
@@ -32,9 +32,9 @@
 
 ---
 
-# Major Projects.
+## Major Projects.
 
-## StackStock (2020~)
+### StackStock (2020~)
 
 Spring Boot Webflux 기반의 대용량 비동기 데이터 처리를 통한 주식 예측 프로그램을 개발하고자 하였습니다. **Webflux와 기존의 동기적 MVC와의 성능 비교 및 장/단점 학습**이 주 목적인 프로젝트입니다.
 
@@ -54,9 +54,9 @@ Spring Boot Webflux 기반의 대용량 비동기 데이터 처리를 통한 주
     - Java
     - Spring Boot (학습 내용 : [https://github.com/201211211yj/Spring-Boot-Start](https://github.com/201211211yj/Spring-Boot-Start))
 
-# Etc Projects.
+## Etc Projects.
 
-## 자율주행 모듈 (2017.06 ~ 2017.09 完)
+### 자율주행 모듈 (2017.06 ~ 2017.09 完)
 
 IOT Innovation Challange 본선에서 쓰인 프로그램으로 Artik710을 활용한 자율주행 모듈입니다. 
 
