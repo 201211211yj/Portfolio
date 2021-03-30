@@ -16,7 +16,7 @@
 
 ---
 
-# **Skills.**
+# Skills.
 
 - 언어 : **Java**, Java Script, C++
 - Framework : **Spring Boot, Spring Framework**, Android, vue.js
@@ -24,7 +24,7 @@
 
 ---
 
-# **Careers.**
+# Careers.
 
 **2012.03 ~ 2018.02 / OO대학교 컴퓨터과학 심화전공 졸업**
 
@@ -32,7 +32,7 @@
 
 ---
 
-# Major Projects**.**
+# Major Projects.
 
 ## StackStock (2020~)
 
@@ -54,7 +54,7 @@ Spring Boot Webflux 기반의 대용량 비동기 데이터 처리를 통한 주
     - Java
     - Spring Boot (학습 내용 : [https://github.com/201211211yj/Spring-Boot-Start](https://github.com/201211211yj/Spring-Boot-Start))
 
-# Etc Projects**.**
+# Etc Projects.
 
 ## 자율주행 모듈 (2017.06 ~ 2017.09 完)
 
