@@ -82,7 +82,7 @@ IOT Innovation Challange 본선에서 쓰인 프로그램으로 Artik710을 활�
 
 서울시 공공데이터를 기반으로 어린이집 위치, 정보 조회, 식단 등록 등 간단한 기능을 개발하였습니다. 어플리케이션의 동작은 정상적으로 이루어지나, 소스코드의 구조화는 미흡하게 완성되었습니다.
 
-![src/Untitled2.png](src/Untitled2.png)
+![src/67D2C692-AE74-497F-8D2B-51AB7D8DE45A.png](src/67D2C692-AE74-497F-8D2B-51AB7D8DE45A.png)
 
 **Git Repository.** ([https://github.com/201211211yj/2016SeoulApp](https://github.com/201211211yj/2016SeoulApp))
 
