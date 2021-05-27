@@ -4,39 +4,27 @@
 
 ---
 
-### Contact.
-
-**Email.** 201211211yj@gmail.com
-
-**Phone.** 010-0000-0000
-
-### Channel.
-
-**GitHub.** [https://github.com/201211211yj](https://github.com/201211211yj)
-
----
-
-## Skills.
+# **Skills.**
 
 - 언어 : **Java**, Java Script, C++
-- Framework : **Spring Boot, Spring Framework**, Android, vue.js
+- Framework : **Spring Boot, Spring Webflux**, Spring, Android, vue.js
 - ETC : Linux, OpenCV,
 
 ---
 
-## Careers.
+# **Careers.**
 
-**2012.03 ~ 2018.02 / OO대학교 컴퓨터과학 심화전공 졸업**
+**2012.03 ~ 2018.02 / 상명대학교 컴퓨터과학전공 졸업**
 
-**2018.01 ~ / SI업체 재직 (OO화재 업무포탈 운영)**
+**2018.01 ~ / 미라콤아이앤씨 재직 (삼성화재 업무포탈 운영)**
 
----
+[Career Project.](https://www.notion.so/f09f469a32124138b05e76084f9f6b40)
 
-## Major Projects.
+# **Major Projects.**
 
-### StackStock (2020~)
+## StackStock (2020.09~)
 
-Spring Boot Webflux 기반의 대용량 비동기 데이터 처리를 통한 주식 예측 프로그램을 개발하고자 하였습니다. **Webflux와 기존의 동기적 MVC와의 성능 비교 및 장/단점 학습**이 주 목적인 프로젝트입니다.
+**Spring Boot Webflux** 기반의 대용량 비동기 데이터 처리를 통한 주식 예측 프로그램을 개발하고자 하였습니다. **Webflux와 기존의 동기적 MVC와의 성능 비교 및 장/단점 학습**이 주 목적인 프로젝트입니다.
 
 **Git Repository.** 
 
@@ -48,21 +36,38 @@ Spring Boot Webflux 기반의 대용량 비동기 데이터 처리를 통한 주
 
 **Tech Skills.**
 
-- Front-End
-    - vue.js (예정)
 - Back-End
-    - Java
-    - Spring Boot (학습 내용 : [https://github.com/201211211yj/Spring-Boot-Start](https://github.com/201211211yj/Spring-Boot-Start))
+    - **Java**
+    - **Spring Boot Webflux**
 
-## Etc Projects.
+## FaceBook Cloning (2021.04~2021.05)
 
-### 자율주행 모듈 (2017.06 ~ 2017.09 完)
+**Spring Boot의 전반적인 기술**을 학습하기 위해서 개발을 진행한 프로젝트입니다.
+
+![Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled.png](Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled.png)
+
+**Tech Skills.**
+
+- Front-End
+    - React
+- Back-End
+    - **Java**
+    - **Spring Boot + Jdbc : REST API 기반 Back-end 프로그램**
+    - **Spring Security : JWT Authentication (Authentication 커스터마이징)**
+    - **Kafka**
+- API 문서 (Repository가 비공개 상태여서 부득이하게 해당 문서만 부분적으로 공개합니다.)
+
+    ![Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled%201.png](Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled%201.png)
+
+# **Etc Projects.**
+
+## 자율주행 모듈 (2017.06 ~ 2017.09 完)
 
 IOT Innovation Challange 본선에서 쓰인 프로그램으로 Artik710을 활용한 자율주행 모듈입니다. 
 
 차선 인식을 위해 OpenCV를 활용하였으며 **Canny, Houghlines 등의 알고리즘을 조합**하여 사용하였습니다. 차선 인식률은 약 70%로 대부분의 트랙에 완주가 가능했습니다.
 
-![src/Untitled.png](src/Untitled.png)
+![Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled%202.png](Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled%202.png)
 
 **Git Repository.** ([https://github.com/201211211yj/Artik710AutoCar](https://github.com/201211211yj/Artik710AutoCar))
 
@@ -82,7 +87,7 @@ IOT Innovation Challange 본선에서 쓰인 프로그램으로 Artik710을 활�
 
 서울시 공공데이터를 기반으로 어린이집 위치, 정보 조회, 식단 등록 등 간단한 기능을 개발하였습니다. 어플리케이션의 동작은 정상적으로 이루어지나, 소스코드의 구조화는 미흡하게 완성되었습니다.
 
-![src/67D2C692-AE74-497F-8D2B-51AB7D8DE45A.png](src/67D2C692-AE74-497F-8D2B-51AB7D8DE45A.png)
+![Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled%203.png](Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled%203.png)
 
 **Git Repository.** ([https://github.com/201211211yj/2016SeoulApp](https://github.com/201211211yj/2016SeoulApp))
 
