@@ -42,9 +42,8 @@
 
 ## FaceBook Cloning (2021.04~2021.05)
 
-**Spring Boot의 전반적인 기술**을 학습하기 위해서 개발을 진행한 프로젝트입니다.
-
-![Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled.png](Portfolio%20b433b62700dc4f589ae457b1fa2323df/Untitled.png)
+**Spring Boot의 전반적인 기술**을 학습하기 위해서 개발을 진행한 프로젝트입니다.<br>
+[http://211.37.147.203:8088/login](http://211.37.147.203:8088/login)
 
 **Tech Skills.**
 
